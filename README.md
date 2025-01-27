@@ -1,4 +1,7 @@
 # High-Dimensional Predictive Analytics for Academic Performance Using Machine Learning
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/30286c6b-5359-4390-b91b-24f83da58d33" alt="Image" width="500">
+</div>
 
 
 ## Project Description
